@@ -53,6 +53,7 @@ After testing on a 20% test split, here are the final evaluation metrics:
 **Developed By:**
 * **Muhammad Mohsin**
 * **Usman Siddique**
+* **Mohsin Saleem**
 * *(5th Semester Students)*
 
 **Submitted To:**
