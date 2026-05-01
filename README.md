@@ -51,10 +51,11 @@ After testing on a 20% test split, here are the final evaluation metrics:
 
 ## 👨‍💻 Project Team
 **Developed By:**
-* **Muhammad Mohsi**
-* **Usman Siddique**
-* **Mohsin Saleem**
-* *(5th Semester Students)*
+* **Muhammad Mohsin**
+* **Muhammad Aman Fasihe**
+* **Abdur Rehman**
+* **Zain ul Abadian**
+* **Mahnoor Jabbar**
 
 **Submitted To:**
-* **Sir Awais Rasool**
+* **Pak Angles**
